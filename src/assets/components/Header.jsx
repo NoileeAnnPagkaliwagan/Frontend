@@ -1,7 +1,7 @@
 const Header = ({ name, course }) => {
   return (
     <>
-      <h1 className="text-4xl bg-pink-300 text-end p-3 text-pink-600">
+      <h1 className="text-4xl bg-yellow-300 text-end p-3 text-yellow-600">
         {name}
       </h1>
 
